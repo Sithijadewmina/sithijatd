@@ -78,7 +78,7 @@
   text-align: left;
 }
 .black-theme .card .card__content p span {
-  margin-right: 10px;
+  margin-right: 30px;
 }
 .black-theme .card .card__content p a {
   text-decoration: none;
@@ -176,7 +176,7 @@
   text-align: left;
 }
 .white-theme .card .card__content p span {
-  margin-right: 10px;
+  margin-right: 30px;
 }
 .white-theme .card .card__content p a {
   text-decoration: none;
