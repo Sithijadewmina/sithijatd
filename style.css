@@ -28,8 +28,8 @@
   border-radius: 50%;
 }
 .black-theme .card {
-  width: 600px;
-  height: 800px;
+  min-height: 55rem;
+  width: 37rem;
   box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
   border-radius: 20px;
   background: rgba(255, 255, 255, 0.05);
