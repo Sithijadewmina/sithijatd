@@ -46,8 +46,8 @@
   object-fit: cover;
 }
 .black-theme .card .card__top .profile__photo {
-  width: 130px;
-  height: 130px;
+  width: 230px;
+  height: 230px;
   position: absolute;
   bottom: -60px;
   left: 50%;
@@ -135,7 +135,7 @@
   overflow: hidden;
 }
 .white-theme .card .card__top {
-  height: 155px;
+  height: 255px;
   position: relative;
 }
 .white-theme .card .card__top img {
@@ -144,8 +144,8 @@
   object-fit: cover;
 }
 .white-theme .card .card__top .profile__photo {
-  width: 130px;
-  height: 130px;
+  width: 230px;
+  height: 230px;
   position: absolute;
   bottom: -60px;
   left: 50%;
